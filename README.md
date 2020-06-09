@@ -1,2 +1,2 @@
-# github-example
+# IBM Applied Data Science projects
 Example
